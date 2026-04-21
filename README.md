@@ -1,22 +1,7 @@
-# Suno meta-tags reference
+# Suno Mastering
 
-Suno music generation service meta-tags reference is placed into the [Tag reference](tag-reference.md) file in this repository.
+React (ffmpeg.wasm) commands from [AIAADiG](https://github.com/stayen/suno-reference/blob/main/aiaadig.md) in the suno-reference repository.
 
-Some interesting track definitions are listed in [Templates reference](templates.md) file in this repository.
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fxiliourt%2Fsuno-reference)
 
-DDEX compliance (provenance data) creation: [Provenance](provenance.md) file in this repository.
 
-AI assisted audio distribution guideline: [AIAADiG](aiaadig.md) file in this repository.
-
-The meta-tags reference is compiled by studying Suno users' public posts and comments, related to the currently supported meta-tags (used in Lyrics field).
-
-Latest documents update: November 20, 2025: tag-reference
-
-Last changes: added LLM distilled tag reference file, free of unnecessary lyrics and comments.
-
-Latest news: Suno, model v5.0
-
-## External links
-* [Suno](https://suno.com/)
-* [Producer (former Riffusion)](https://producer.ai/)
-* [Reference copy on Notion (no longer updated)](https://dev-stayen.notion.site/Suno-meta-tags-reference-232467b1555080f7b4c7cbc205265635)
